@@ -8,4 +8,6 @@ Saina, a badminton star, is a source of inspiration for many people. From the ve
 <br />
 The given webpage is designed using HTML only.
 <br />
-HTML or Hyper Text Markup Language is known to provide structure to a webpage and some basic styling. Here I've tried to include the tags that should be included in a webpage to provide the mandatory structure.I have also tried to maintain clean code so as to enhance readability. As I've used only HTML, the page does not give a appealing look but is certainly helpful for people who are starting with web development. Go through the index.html file to see the source code and 
+HTML or Hyper Text Markup Language is known to provide structure to a webpage and some basic styling. Here I've tried to include the tags that should be included in a webpage to provide the mandatory structure. I have also tried to maintain clean code so as to enhance readability. As I've used only HTML, the page does not give a appealing look but is certainly helpful for people who are starting with web development. Go through the index.html file to see the source code and play with some tags to see different output on the web browser. I used Visual Studio Code as an IDE but you can go with various options available like - Atom, Sublime Text etc. 
+<br />
+Start Today!
